@@ -1,0 +1,24 @@
+{
+  "name": "fetch-json",
+  "version": "0.1.0",
+  "description": "A clean API for making JSON requests using the Javascript Fetch API",
+  "main": "src/fetch-json.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redacademy/fetch-json.git"
+  },
+  "keywords": [
+    "fetch",
+    "json",
+    "ajax"
+  ],
+  "author": "RED Academy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/redacademy/fetch-json/issues"
+  },
+  "homepage": "https://github.com/redacademy/fetch-json#readme"
+}
